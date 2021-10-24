@@ -1,0 +1,101 @@
+31 100
+00 : rotate : 90
+00 : flip : H
+00 : upscale : 1 1
+00 : downscale : 2 2
+00 : bright : -1
+00 : rotate : 180
+00 : flip : V
+00 : upscale : 2 1
+00 : downscale : 1 1
+00 : bright : 1
+00 : rotate : 90
+00 : flip : H
+00 : upscale : 1 1
+00 : downscale : 2 2
+00 : bright : -1
+00 : rotate : 180
+00 : flip : V
+00 : upscale : 2 1
+00 : downscale : 1 1
+00 : bright : 1
+00 : rotate : 90
+00 : flip : H
+00 : upscale : 1 1
+00 : downscale : 2 2
+00 : bright : -1
+00 : rotate : 180
+00 : flip : V
+00 : upscale : 2 1
+00 : downscale : 1 1
+00 : bright : 1
+00 : rotate : 90
+00 : flip : H
+00 : upscale : 1 1
+00 : downscale : 2 2
+00 : bright : -1
+00 : rotate : 180
+00 : flip : V
+00 : upscale : 2 1
+00 : downscale : 1 1
+00 : bright : 1
+00 : rotate : 90
+00 : flip : H
+00 : upscale : 1 1
+00 : downscale : 2 2
+00 : bright : -1
+00 : rotate : 180
+00 : flip : V
+00 : upscale : 2 1
+00 : downscale : 1 1
+00 : bright : 1
+00 : rotate : 90
+00 : flip : H
+00 : upscale : 1 1
+00 : downscale : 2 2
+00 : bright : -1
+00 : rotate : 180
+00 : flip : V
+00 : upscale : 2 1
+00 : downscale : 1 1
+00 : bright : 1
+00 : rotate : 90
+00 : flip : H
+00 : upscale : 1 1
+00 : downscale : 2 2
+00 : bright : -1
+00 : rotate : 180
+00 : flip : V
+00 : upscale : 2 1
+00 : downscale : 1 1
+00 : bright : 1
+00 : rotate : 90
+00 : flip : H
+00 : upscale : 1 1
+00 : downscale : 2 2
+00 : bright : -1
+00 : rotate : 180
+00 : flip : V
+00 : upscale : 2 1
+00 : downscale : 1 1
+00 : bright : 1
+00 : rotate : 90
+00 : flip : H
+00 : upscale : 1 1
+00 : downscale : 2 2
+00 : bright : -1
+00 : rotate : 180
+00 : flip : V
+00 : upscale : 2 1
+00 : downscale : 1 1
+00 : bright : 1
+00 : rotate : 90
+00 : flip : H
+00 : upscale : 1 1
+00 : downscale : 2 2
+00 : bright : -1
+00 : rotate : 180
+00 : flip : V
+00 : upscale : 2 1
+00 : downscale : 1 1
+00 : bright : 1

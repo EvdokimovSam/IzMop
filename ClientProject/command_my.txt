@@ -1,0 +1,6 @@
+4 5
+00 : rotate : 90
+00 : downscale : 4 3
+02,03 : bright : 1
+03,04 : bright : -1
+02 : flip : H

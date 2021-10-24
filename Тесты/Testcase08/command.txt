@@ -1,0 +1,10 @@
+10 8
+00 : downscale : 1 1
+00 : downscale : 8 8
+00 : downscale : 2 1
+00 : downscale : 1 2
+00 : downscale : 3 2
+00 : downscale : 2 3
+00 : downscale : 2 2
+00 : downscale : 1 1
+ 
